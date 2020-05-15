@@ -1,2 +1,2 @@
 # SkullGiver MC Plugin
- usage: /skull <player>
+ usage: /skull (player)
