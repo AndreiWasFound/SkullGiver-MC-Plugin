@@ -1,0 +1,7 @@
+main: me.AndreiWasFound.Skull.Main
+name: Skull
+version: 1.0
+author: AndreiWasFound
+
+commands:
+  Skull:
